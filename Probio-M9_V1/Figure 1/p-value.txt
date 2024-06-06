@@ -1,0 +1,7 @@
+（C）Boxplots showing the intramammary levels of six cytokines, interferon (IFN)-γ, interleukin (IL)-4, IL-10, IL-1β, IL-2, and IL-6.
+library(ggpubr)
+library(ggplot2)
+df <-read.table("clipboard",header=T,check.names=FALSE,sep="\t")
+p <- ggboxplot(df, x="dose", y="len", color = "group", palette = "jco", add = "jitter")     
+P 
+compare_means(len~group, data=df, method = "wilcox.test", paired = F,  group.by = NULL)

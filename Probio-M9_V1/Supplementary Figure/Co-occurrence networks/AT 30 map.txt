@@ -1,0 +1,774 @@
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11B.bin_6	bacterium 0.1xD8-71
+Sample_s11c.bin_9	Firmicutes bacterium
+Sample_s14B.bin_6	Roseburia sp. CAG:303
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s15c.bin_16	bacterium 1XD21-70
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s15c.bin_4	Bacteroides dorei
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s18B.bin_14	Bacteroides caccae
+Sample_s18B.bin_14	Bacteroides caccae
+Sample_s18B.bin_14	Bacteroides caccae
+Sample_s18B.bin_14	Bacteroides caccae
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s18c.bin_13	Ruthenibacterium lactatiformans
+Sample_s18c.bin_13	Ruthenibacterium lactatiformans
+Sample_s18c.bin_13	Ruthenibacterium lactatiformans
+Sample_s18c.bin_13	Ruthenibacterium lactatiformans
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s21c.bin_3	Porphyromonadaceae bacterium
+Sample_s21c.bin_3	Porphyromonadaceae bacterium
+Sample_s22B.bin_10	Firmicutes bacterium CAG:646
+Sample_s22B.bin_10	Firmicutes bacterium CAG:646
+Sample_s22B.bin_10	Firmicutes bacterium CAG:646
+Sample_s22B.bin_19	Lachnospiraceae bacterium
+Sample_s22B.bin_19	Lachnospiraceae bacterium
+Sample_s22B.bin_19	Lachnospiraceae bacterium
+Sample_s22B.bin_19	Lachnospiraceae bacterium
+Sample_s22c.bin_14	Muribaculaceae bacterium Isolate-077 (Janvier)
+Sample_s22c.bin_14	Muribaculaceae bacterium Isolate-077 (Janvier)
+Sample_s22c.bin_16	Firmicutes bacterium CAG:137
+Sample_s22c.bin_16	Firmicutes bacterium CAG:137
+Sample_s22c.bin_16	Firmicutes bacterium CAG:137
+Sample_s22c.bin_16	Firmicutes bacterium CAG:137
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s22c.bin_7	Clostridium sp. CAG:1013
+Sample_s22c.bin_7	Clostridium sp. CAG:1013
+Sample_s22c.bin_7	Clostridium sp. CAG:1013
+Sample_s22c.bin_7	Clostridium sp. CAG:1013
+Sample_s22c.bin_7	Clostridium sp. CAG:1013
+Sample_s24c.bin_9	Clostridia bacterium
+Sample_s28B.bin_5	Lactobacillus reuteri
+Sample_s28c.bin_6	Firmicutes bacterium
+Sample_s29c.bin_2	Parabacteroides distasonis
+Sample_s29c.bin_2	Parabacteroides distasonis
+Sample_s29c.bin_8	Bacteroides thetaiotaomicron
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s30B.bin_12	Oscillibacter sp. 1-3
+Sample_s30B.bin_12	Oscillibacter sp. 1-3
+Sample_s30c.bin_3	Clostridium sp. CAG:510
+Sample_s31B.bin_5	Firmicutes bacterium
+Sample_s31c.bin_2	uncultured Clostridium sp.
+Sample_s31c.bin_2	uncultured Clostridium sp.
+Sample_s31c.bin_2	uncultured Clostridium sp.
+Sample_s31c.bin_2	uncultured Clostridium sp.
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s33B.bin_23	Lachnospiraceae bacterium
+Sample_s33B.bin_23	Lachnospiraceae bacterium
+Sample_s33B.bin_23	Lachnospiraceae bacterium
+Sample_s33B.bin_23	Lachnospiraceae bacterium
+Sample_s34c.bin_12	Lachnospiraceae bacterium M18-1
+Sample_s34c.bin_4	uncultured Flavonifractor sp.
+Sample_s34c.bin_6	Lachnospiraceae bacterium
+Sample_s34c.bin_6	Lachnospiraceae bacterium
+Sample_s34c.bin_6	Lachnospiraceae bacterium
+Sample_s34c.bin_6	Lachnospiraceae bacterium
+Sample_s34c.bin_6	Lachnospiraceae bacterium
+Sample_s35c.bin_2	Clostridiales bacterium
+Sample_s35c.bin_10	Pseudoflavonifractor capillosus
+Sample_s35c.bin_10	Pseudoflavonifractor capillosus
+Sample_s35c.bin_10	Pseudoflavonifractor capillosus
+Sample_s35c.bin_11	Firmicutes bacterium
+Sample_s35c.bin_11	Firmicutes bacterium
+Sample_s35c.bin_13	Firmicutes bacterium ASF500
+Sample_s35c.bin_15	Enterocloster clostridioformis
+Sample_s35c.bin_15	Enterocloster clostridioformis
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s35c.bin_17	Lachnospiraceae bacterium AM48-27BH
+Sample_s35c.bin_18	Flavonifractor plautii
+Sample_s36c.bin_4	Prevotella sp. MGM2
+Sample_s36c.bin_4	Prevotella sp. MGM2
+Sample_s36c.bin_4	Prevotella sp. MGM2
+Sample_s37c.bin_11	Lachnospiraceae bacterium MD335
+Sample_s37c.bin_11	Lachnospiraceae bacterium MD335
+Sample_s37c.bin_11	Lachnospiraceae bacterium MD335
+Sample_s37c.bin_13	bacterium 1XD21-70
+Sample_s37c.bin_13	bacterium 1XD21-70
+Sample_s37c.bin_13	bacterium 1XD21-70
+Sample_s37c.bin_13	bacterium 1XD21-70
+Sample_s39B.bin_20	bacterium 1XD8-92
+Sample_s39c.bin_17	Alistipes putredinis
+Sample_s39c.bin_18	uncultured Flavonifractor sp.
+Sample_s39c.bin_4	Odoribacter splanchnicus
+Sample_s39c.bin_4	Odoribacter splanchnicus
+Sample_s39c.bin_4	Odoribacter splanchnicus
+Sample_s39c.bin_4	Odoribacter splanchnicus
+Sample_s42c.bin_13	uncultured Flavonifractor sp.
+Sample_s42c.bin_13	uncultured Flavonifractor sp.
+Sample_s42c.bin_4	Bacteroides nordii
+Sample_s42c.bin_7	Lachnoclostridium sp. An138
+Sample_s42c.bin_7	Lachnoclostridium sp. An138
+Sample_s45c.bin_3	Porphyromonadaceae bacterium
+Sample_s45c.bin_3	Porphyromonadaceae bacterium
+Sample_s45c.bin_5	Firmicutes bacterium
+Sample_s45c.bin_5	Firmicutes bacterium
+Sample_s45c.bin_5	Firmicutes bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s46c.bin_7	uncultured Flavonifractor sp.
+Sample_s48c.bin_3	Muribaculum intestinale
+Sample_s48c.bin_3	Muribaculum intestinale
+Sample_s48c.bin_4	Bacteroides uniformis
+Sample_s48c.bin_4	Bacteroides uniformis
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s49B.bin_2	Ruminococcaceae bacterium
+Sample_s49B.bin_2	Ruminococcaceae bacterium
+Sample_s49B.bin_2	Ruminococcaceae bacterium
+Sample_s49B.bin_3	Lactobacillus murinus
+Sample_s49c.bin_18	Peptococcaceae bacterium DCMF
+Sample_s49c.bin_1	Anaerotruncus sp. 1XD22-93
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s50B.bin_9	Muribaculaceae bacterium Isolate-013 (NCI)
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s52c.bin_26	Oscillibacter sp. 1-3
+Sample_s52c.bin_26	Oscillibacter sp. 1-3
+Sample_s53c.bin_21	Oscillibacter sp.
+Sample_s53c.bin_21	Oscillibacter sp.
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s54B.bin_33	Corynebacterium stationis
+Sample_s54B.bin_33	Corynebacterium stationis
+Sample_s54B.bin_33	Corynebacterium stationis
+Sample_s54c.bin_12	Proteobacteria bacterium CAG:495
+Sample_s55c.bin_11	Clostridium cocleatum
+Sample_s55c.bin_11	Clostridium cocleatum
+Sample_s55c.bin_11	Clostridium cocleatum
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s57B.bin_19	Oscillibacter sp. 1-3
+Sample_s58c.bin_1	Ruminococcaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s60c.bin_19	Muribaculaceae bacterium Isolate-037 (Harlan)
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s66B.bin_7	Clostridiales bacterium
+Sample_s66B.bin_7	Clostridiales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74B.bin_27	Lachnospiraceae bacterium A4
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s14c.bin_1	Muribaculaceae bacterium Isolate-102 (HZI)
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s55c.bin_5	Burkholderiales bacterium
+Sample_s29c.bin_8	Bacteroides thetaiotaomicron
+Sample_s15c.bin_29	Alistipes dispar
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s52B.bin_5	Clostridiales bacterium
+Sample_s16c.bin_11	Pseudoflavonifractor sp. An85
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s46c.bin_7	uncultured Flavonifractor sp.
+Sample_s18B.bin_18	bacterium 0.1xD8-71
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s22c.bin_14	Muribaculaceae bacterium Isolate-077 (Janvier)
+Sample_s58B.bin_7	Muribaculaceae bacterium Isolate-114 (HZI)
+Sample_s58c.bin_1	Ruminococcaceae bacterium
+Sample_s71B.bin_2	Prevotella sp. MGM1
+Sample_s22c.bin_24	Lachnospiraceae bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s18c.bin_3	Clostridiales bacterium
+Sample_s39c.bin_4	Odoribacter splanchnicus
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s66c.bin_18	Porphyromonadaceae bacterium
+Sample_s22B.bin_19	Lachnospiraceae bacterium
+Sample_s24c.bin_9	Clostridia bacterium
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s49B.bin_2	Ruminococcaceae bacterium
+Sample_s53c.bin_21	Oscillibacter sp.
+Sample_s66c.bin_18	Porphyromonadaceae bacterium
+Sample_s76c.bin_6	Azospirillum sp. CAG:239
+Sample_s48c.bin_4	Bacteroides uniformis
+Sample_s71B.bin_2	Prevotella sp. MGM1
+Sample_s35c.bin_15	Enterocloster clostridioformis
+Sample_s35c.bin_18	Flavonifractor plautii
+Sample_s51B.bin_6	Firmicutes bacterium CAG:424
+Sample_s49B.bin_2	Ruminococcaceae bacterium
+Sample_s53c.bin_21	Oscillibacter sp.
+Sample_s54c.bin_12	Proteobacteria bacterium CAG:495
+Sample_s76c.bin_6	Azospirillum sp. CAG:239
+Sample_s22c.bin_3	Akkermansia muciniphila
+Sample_s58c.bin_1	Ruminococcaceae bacterium
+Sample_s55c.bin_11	Clostridium cocleatum
+Sample_s55c.bin_5	Burkholderiales bacterium
+Sample_s60c.bin_19	Muribaculaceae bacterium Isolate-037 (Harlan)
+Sample_s74c.bin_20	Clostridiales bacterium
+Sample_s2c.bin_16	Firmicutes bacterium CAG:460
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s37c.bin_13	bacterium 1XD21-70
+Sample_s54B.bin_33	Corynebacterium stationis
+Sample_s66B.bin_7	Clostridiales bacterium
+Sample_s74B.bin_27	Lachnospiraceae bacterium A4
+Sample_s8c.bin_20	uncultured Flavonifractor sp.
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s65c.bin_12	Lachnospiraceae bacterium
+Sample_s52B.bin_5	Clostridiales bacterium
+Sample_s39c.bin_17	Alistipes putredinis
+Sample_s54c.bin_2	Azospirillum sp. CAG:239
+Sample_s39c.bin_17	Alistipes putredinis
+Sample_s2c.bin_7	Clostridiales bacterium
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s31c.bin_8	Clostridiales bacterium
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s49c.bin_18	Peptococcaceae bacterium DCMF
+Sample_s56c.bin_1	Romboutsia ilealis
+Sample_s39c.bin_18	uncultured Flavonifractor sp.
+Sample_s42c.bin_7	Lachnoclostridium sp. An138
+Sample_s35c.bin_10	Pseudoflavonifractor capillosus
+Sample_s35c.bin_11	Firmicutes bacterium
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s54B.bin_10	Sutterella sp. CAG:521
+Sample_s46B.bin_1	Alistipes sp.
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s37c.bin_11	Lachnospiraceae bacterium MD335
+Sample_s52c.bin_26	Oscillibacter sp. 1-3
+Sample_s57B.bin_19	Oscillibacter sp. 1-3
+Sample_s60B.bin_3	uncultured Clostridium sp.
+Sample_s9c.bin_5	Firmicutes bacterium CAG:646
+Sample_s35c.bin_4	Bacteroides intestinalis
+Sample_s39c.bin_18	uncultured Flavonifractor sp.
+Sample_s45c.bin_5	Firmicutes bacterium
+Sample_s46c.bin_7	uncultured Flavonifractor sp.
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s52B.bin_5	Clostridiales bacterium
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s35c.bin_11	Firmicutes bacterium
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s54B.bin_10	Sutterella sp. CAG:521
+Sample_s35c.bin_16	Clostridiales bacterium
+Sample_s54B.bin_10	Sutterella sp. CAG:521
+Sample_s58c.bin_23	Firmicutes bacterium CAG:137
+Sample_s35c.bin_18	Flavonifractor plautii
+Sample_s51B.bin_6	Firmicutes bacterium CAG:424
+Sample_s37c.bin_7	Alistipes sp.
+Sample_s54B.bin_10	Sutterella sp. CAG:521
+Sample_s35c.bin_9	bacterium D16-54
+Sample_s51B.bin_6	Firmicutes bacterium CAG:424
+Sample_s42c.bin_7	Lachnoclostridium sp. An138
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s54c.bin_2	Azospirillum sp. CAG:239
+Sample_s52c.bin_26	Oscillibacter sp. 1-3
+Sample_s57B.bin_19	Oscillibacter sp. 1-3
+Sample_s60B.bin_3	uncultured Clostridium sp.
+Sample_s54B.bin_33	Corynebacterium stationis
+Sample_s66B.bin_7	Clostridiales bacterium
+Sample_s74B.bin_27	Lachnospiraceae bacterium A4
+Sample_s8c.bin_20	uncultured Flavonifractor sp.
+Sample_s9c.bin_2	Eubacterium sp. CAG:38
+Sample_s54c.bin_2	Azospirillum sp. CAG:239
+Sample_s46c.bin_7	uncultured Flavonifractor sp.
+Sample_s45c.bin_3	Porphyromonadaceae bacterium
+Sample_s48c.bin_3	Muribaculum intestinale
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s49c.bin_1	Anaerotruncus sp. 1XD22-93
+Sample_s50B.bin_9	Muribaculaceae bacterium Isolate-013 (NCI)
+Sample_s8B.bin_2	Ruminococcus flavefaciens
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s48c.bin_3	Muribaculum intestinale
+Sample_s57B.bin_10	Corallococcus sp. CAG:1435
+Sample_s49c.bin_1	Anaerotruncus sp. 1XD22-93
+Sample_s4c.bin_1	Bacteroides sp. CAG:20
+Sample_s46c.bin_7	uncultured Flavonifractor sp.
+Sample_s48c.bin_3	Muribaculum intestinale
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s4B.bin_18	Oscillibacter sp. 1-3
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s48c.bin_8	Lachnospiraceae bacterium
+Sample_s4c.bin_25	Pseudoflavonifractor sp. An85
+Sample_s71B.bin_2	Prevotella sp. MGM1
+Sample_s9c.bin_19	Clostridiales bacterium
+Sample_s49c.bin_1	Anaerotruncus sp. 1XD22-93
+Sample_s53c.bin_21	Oscillibacter sp.
+Sample_s54c.bin_12	Proteobacteria bacterium CAG:495
+Sample_s76c.bin_6	Azospirillum sp. CAG:239
+Sample_s9c.bin_5	Firmicutes bacterium CAG:646
+Sample_s56c.bin_1	Romboutsia ilealis
+Sample_s4c.bin_1	Bacteroides sp. CAG:20
+Sample_s52B.bin_12	Lachnospiraceae bacterium
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s8B.bin_2	Ruminococcus flavefaciens
+Sample_s54B.bin_26	Turicibacter sanguinis
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s57B.bin_19	Oscillibacter sp. 1-3
+Sample_s60B.bin_3	uncultured Clostridium sp.
+Sample_s54c.bin_12	Proteobacteria bacterium CAG:495
+Sample_s76c.bin_6	Azospirillum sp. CAG:239
+Sample_s57B.bin_15	bacterium 0.1xD8-71
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s66B.bin_7	Clostridiales bacterium
+Sample_s74B.bin_27	Lachnospiraceae bacterium A4
+Sample_s8c.bin_20	uncultured Flavonifractor sp.
+Sample_s76c.bin_6	Azospirillum sp. CAG:239
+Sample_s55c.bin_5	Burkholderiales bacterium
+Sample_s60c.bin_19	Muribaculaceae bacterium Isolate-037 (Harlan)
+Sample_s74c.bin_20	Clostridiales bacterium
+Sample_s58c.bin_2	Porphyromonadaceae bacterium
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s60B.bin_3	uncultured Clostridium sp.
+Sample_s71B.bin_2	Prevotella sp. MGM1
+Sample_s61B.bin_11	Gemmiger sp. An120
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s74c.bin_20	Clostridiales bacterium
+Sample_s61c.bin_21	Pseudoflavonifractor sp. An85
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s62B.bin_15	Eubacterium plexicaudatum
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s62B.bin_5	Lachnospiraceae bacterium
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s65B.bin_2	Bacteroidales bacterium
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s6c.bin_10	Alistipes finegoldii CAG:68
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s74B.bin_27	Lachnospiraceae bacterium A4
+Sample_s8c.bin_20	uncultured Flavonifractor sp.
+Sample_s74c.bin_8	Ruminococcaceae bacterium
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
+Sample_s8c.bin_20	uncultured Flavonifractor sp.
+Sample_s7B.bin_2	Prevotella sp. CAG:1185
