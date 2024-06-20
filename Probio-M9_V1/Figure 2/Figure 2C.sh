@@ -1,0 +1,1 @@
+bin_kegg_prot_v2.sh all_rename_SGBs_faa bin_KEGG_result faa
