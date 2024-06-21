@@ -1,0 +1,56 @@
+group	time	Simpson
+Blank control	-26	0.957085903
+Blank control	-26	0.956788626
+Blank control	-26	0.943959398
+Blank control	-26	0.93957912
+Blank control	-26	0.971027075
+Blank control	-26	0.947951528
+Blank control	-26	0.94954114
+Blank control	-26	0.965221276
+Blank control	-26	0.951101133
+Blank control	-26	0.942014187
+Blank control	-26	0.943520019
+Blank control	-26	0.929268518
+Positive control	-26	0.924863195
+Positive control	-26	0.932443911
+Positive control	-26	0.965036161
+Positive control	-26	0.944715267
+Positive control	-26	0.951967666
+Positive control	-26	0.896367981
+Positive control	-26	0.921204558
+Positive control	-26	0.957667457
+Positive control	-26	0.94523599
+Positive control	-26	0.91710512
+Probio-M9 pophylaxis	-26	0.953767016
+Probio-M9 pophylaxis	-26	0.957519338
+Probio-M9 pophylaxis	-26	0.925670605
+Probio-M9 pophylaxis	-26	0.941730677
+Probio-M9 pophylaxis	-26	0.968894166
+Probio-M9 pophylaxis	-26	0.940819086
+Probio-M9 pophylaxis	-26	0.959216843
+Probio-M9 pophylaxis	-26	0.951586212
+Probio-M9 treatment	-26	0.914858422
+Probio-M9 treatment	-26	0.96094861
+Probio-M9 treatment	-26	0.940000985
+Probio-M9 treatment	-26	0.918971078
+Probio-M9 treatment	-26	0.92298676
+Probio-M9 treatment	-26	0.956982065
+Probio-M9 treatment	-26	0.944250911
+Probio-M9 treatment	-26	0.963225994
+Probio-M9 treatment	-26	0.943114366
+Antibiotic	-26	0.958429672
+Antibiotic	-26	0.954179872
+Antibiotic	-26	0.956636344
+Antibiotic	-26	0.916416107
+Antibiotic	-26	0.914414423
+Antibiotic	-26	0.940551922
+Antibiotic	-26	0.952640587
+Antibiotic	-26	0.939885769
+Antibiotic	-26	0.935922871
+Antibiotic+Probio-M9	-26	0.956842867
+Antibiotic+Probio-M9	-26	0.916333733
+Antibiotic+Probio-M9	-26	0.951730564
+Antibiotic+Probio-M9	-26	0.949249533
+Antibiotic+Probio-M9	-26	0.915990729
+Antibiotic+Probio-M9	-26	0.940769003
+Antibiotic+Probio-M9	-26	0.924467313

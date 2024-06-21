@@ -1,0 +1,56 @@
+group	time	Simpson
+Blank control	4	0.967244495
+Blank control	4	0.971170591
+Blank control	4	0.975783971
+Blank control	4	0.964775107
+Blank control	4	0.96790498
+Blank control	4	0.967268634
+Blank control	4	0.969110873
+Blank control	4	0.939600114
+Blank control	4	0.959487863
+Blank control	4	0.973695781
+Blank control	4	0.967062544
+Blank control	4	0.957855517
+Positive control	4	0.945352901
+Positive control	4	0.966732482
+Positive control	4	0.929455394
+Positive control	4	0.955783767
+Positive control	4	0.956339148
+Positive control	4	0.954846775
+Positive control	4	0.9420785
+Positive control	4	0.973580335
+Positive control	4	0.930005311
+Positive control	4	0.931039399
+Probio-M9 pophylaxis	4	0.93775185
+Probio-M9 pophylaxis	4	0.968625702
+Probio-M9 pophylaxis	4	0.959061157
+Probio-M9 pophylaxis	4	0.978881093
+Probio-M9 pophylaxis	4	0.97430446
+Probio-M9 pophylaxis	4	0.970078065
+Probio-M9 pophylaxis	4	0.969782781
+Probio-M9 pophylaxis	4	0.952302716
+Probio-M9 treatment	4	0.970399203
+Probio-M9 treatment	4	0.974732663
+Probio-M9 treatment	4	0.969745092
+Probio-M9 treatment	4	0.964700144
+Probio-M9 treatment	4	0.946155458
+Probio-M9 treatment	4	0.96086629
+Probio-M9 treatment	4	0.958384777
+Probio-M9 treatment	4	0.952314825
+Probio-M9 treatment	4	0.963469479
+Antibiotic	4	0.917232163
+Antibiotic	4	0.935423592
+Antibiotic	4	0.898537703
+Antibiotic	4	0.932760132
+Antibiotic	4	0.91994051
+Antibiotic	4	0.920468427
+Antibiotic	4	0.904534282
+Antibiotic	4	0.811799818
+Antibiotic	4	0.890108263
+Antibiotic+Probio-M9	4	0.909915402
+Antibiotic+Probio-M9	4	0.920770186
+Antibiotic+Probio-M9	4	0.933454125
+Antibiotic+Probio-M9	4	0.953577274
+Antibiotic+Probio-M9	4	0.929244196
+Antibiotic+Probio-M9	4	0.916668817
+Antibiotic+Probio-M9	4	0.910777544

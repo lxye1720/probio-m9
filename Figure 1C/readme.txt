@@ -1,0 +1,2 @@
+Figure1（C）Boxplots showing the intramammary levels of six cytokines, interferon (IFN)-γ, interleukin (IL)-4, IL-10, IL-1β, IL-2, and IL-6. Significant differences were detected using the Wilcoxon test.
+After the boxplots was produced by the p-value script, the significance calculated by p-value script  were marked in adobe Illustrator.
